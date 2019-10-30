@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html lang=ru>
+<head>
+    <meta charset="UTF-8">
+    <title>Касса</title>
+	<link type="text/css" rel="StyleSheet" href="/thema/css/style.css">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<div id="month"><table></table></div>
+<div id="day"><table></table></div>
+<div id="cheks"><table></table></div>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="/thema/js/scripts.js"></script>
+</body>
+</html>
+
